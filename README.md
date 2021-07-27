@@ -20,7 +20,7 @@
 
 <h2 align="center">Contests</h2>
 
-> DIV 3
+> <h3><i>DIV 3</i></h3>
 
 <br>
 

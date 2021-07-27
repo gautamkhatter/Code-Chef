@@ -31,7 +31,6 @@
 - Question 4:  &nbsp; <a href="https://www.codechef.com/START7C/problems/CEILSUM">Ceiling Sum</a>
 - Question 5:  &nbsp; <a href="https://www.codechef.com/START7C/problems/MAXSWT">Maximum Possible Sweetness</a>
 
-<br>
 
 <code><h5>Contest name: &nbsp; </h5></code>
 

@@ -21,7 +21,7 @@
 <h2 align="center">Contests</h2>
 
 
-> <h4 align="center">Div 3</h4>
+> DIV 3
 
 <code><h5>Contest name: &nbsp; Starters7</h5></code>
 

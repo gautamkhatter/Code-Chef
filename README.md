@@ -23,9 +23,11 @@
 
 > DIV 3
 
-<code>
-<h5>Contest name: &nbsp; Starters7</h5>
-</code>
+
+<pre>
+<h5>Contest name: &nbsp; Starters7</5>
+</pre>
+
 
 - Question 1: &nbsp; <a href="https://www.codechef.com/START7C/problems/CHSFORMT">Chess Format</a>
 - Question 2:  &nbsp; <a href="https://www.codechef.com/START7C/problems/FODCHAIN">Food Chain</a>
@@ -33,10 +35,10 @@
 - Question 4:  &nbsp; <a href="https://www.codechef.com/START7C/problems/CEILSUM">Ceiling Sum</a>
 - Question 5:  &nbsp; <a href="https://www.codechef.com/START7C/problems/MAXSWT">Maximum Possible Sweetness</a>
 
+<br>
 
-<code>
 <h5>Contest name: &nbsp; </h5>
-</code>
+
 
 
 

@@ -23,7 +23,9 @@
 
 > DIV 3
 
-<code><h5>Contest name: &nbsp; Starters7</h5></code>
+<code>
+<h5>Contest name: &nbsp; Starters7</h5>
+</code>
 
 - Question 1: &nbsp; <a href="https://www.codechef.com/START7C/problems/CHSFORMT">Chess Format</a>
 - Question 2:  &nbsp; <a href="https://www.codechef.com/START7C/problems/FODCHAIN">Food Chain</a>
@@ -32,7 +34,9 @@
 - Question 5:  &nbsp; <a href="https://www.codechef.com/START7C/problems/MAXSWT">Maximum Possible Sweetness</a>
 
 
-<code><h5>Contest name: &nbsp; </h5></code>
+<code>
+<h5>Contest name: &nbsp; </h5>
+</code>
 
 
 

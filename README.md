@@ -20,14 +20,11 @@
 
 <h2 align="center">Contests</h2>
 
-
 > DIV 3
 
+<br>
 
-<pre>
-<h5>Contest name: &nbsp; Starters7</5>
-</pre>
-
+<code>Contest name: &nbsp; Starters7</code>
 
 - Question 1: &nbsp; <a href="https://www.codechef.com/START7C/problems/CHSFORMT">Chess Format</a>
 - Question 2:  &nbsp; <a href="https://www.codechef.com/START7C/problems/FODCHAIN">Food Chain</a>
@@ -37,7 +34,7 @@
 
 <br>
 
-<h5>Contest name: &nbsp; </h5>
+<code>Contest name: &nbsp;</code>
 
 
 

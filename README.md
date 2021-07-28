@@ -2,11 +2,11 @@
 
 <br>
 
-<p>Hey there everyone, in this repository I ma sharing questions that I solves on the Code-Chef platform. These questions include beginner, easy, medium and hard questions available on the platform.</p>
+<p>Hey there everyone 👋, in this repository I am sharing the questions that I am solving on the Code-Chef platform. These questions are divided as Beginner, Easy, Medium and Hard, same as they are on the Code-Chef platform</p>
 
 <br>
 
-<p>I am also sharing the contests that I have given on the platform. You can find the contests in the "Contests" folder where I have further divided them in Div 1,2,3 depending on the rating that I have earned while appearing for the contest</p>
+<p>I am also sharing the contests that I have given on the platform. You can find them in the "Contests" folder where I have further divided them in Div 1,2,3 depending on the rating that I have earned while appearing for the contest</p>
 
 <br>
 
